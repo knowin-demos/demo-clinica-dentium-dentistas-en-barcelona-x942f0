@@ -1,0 +1,95 @@
+{
+  "empresa": "Clínica Dentium - Dentistas en Barcelona",
+  "web": "https://clinicadentium.com",
+  "sector": "salud",
+  "builder": "elementor",
+  "fecha": "2026-04-25T09:47:29.820Z",
+  "templateVersion": "v5-css-catalog",
+  "aiModel": "catalog-deterministic",
+  "aiCost": "$0.00",
+  "cssPersonalized": true,
+  "cssApproach": "catalog-deterministic",
+  "cssSelectorsUsed": {
+    "sections": ".elementor-section,.elementor-top-section,.e-con:not(.e-con-inner)",
+    "cards": ".elementor-widget-icon-box,.elementor-widget-image-box,[class*=\"elementor-repeater-item\"]",
+    "buttons": ".elementor-button,a.elementor-button-link",
+    "nav": ".elementor-location-header,header.elementor-location-header,nav"
+  },
+  "siteAnalysis": {
+    "builder": "elementor",
+    "fonts": [
+      "Courier 10 Pitch",
+      "Montserrat",
+      "Open Sans",
+      "Astra",
+      "inherit"
+    ],
+    "colors": [
+      "#ff0",
+      "#000",
+      "#808285",
+      "#fff",
+      "#666"
+    ],
+    "hasStickyHeader": false,
+    "hasTestimonials": true,
+    "hasSlider": true,
+    "hasGallery": true,
+    "imgCount": 38,
+    "formCount": 0
+  },
+  "improvements": [
+    "URLs relativas → absolutas (base: https://clinicadentium.com)",
+    "Eliminados scripts de tracking",
+    "CSS catálogo v5b — selectores elementor (determinista, 0 latencia)",
+    "Banner demo + barra de progreso",
+    "8 imgs lazy loading",
+    "4 hero imgs con fetchpriority=high",
+    "Bunny Fonts (GDPR)"
+  ],
+  "wowEffects": [
+    "E1 — Scroll reveal secciones (animation-timeline:view)",
+    "E1f — Fallback IntersectionObserver + .kn-vis",
+    "E2 — Stagger reveal tarjetas (nth-child delay)",
+    "E3 — Hover premium en tarjetas (elevación + sombra)",
+    "E4 — Hover botones (elevación + sombra brand)",
+    "E5 — Zoom suave en imágenes (scale 1.06)",
+    "E6 — Barra progreso scroll (gradient fija arriba)",
+    "E7 — Glassmorphism header (backdrop-filter, condicional)",
+    "E8 — Card bottom line gradient (condicional)",
+    "E9 — Input focus glow brand (condicional)",
+    "E10 — ::selection branded",
+    "E11 — Footer separador gradient",
+    "E12 — Heading reveal (letter-spacing animate)",
+    "E13 — Link underline animado (condicional)",
+    "E14 — WhatsApp flotante con pulso (condicional)",
+    "E15 — Global: smooth scroll + font rendering",
+    "REDUCED-MOTION — prefers-reduced-motion safety"
+  ],
+  "preservedContent": "HTML original 100% intacto",
+  "extractedData": {
+    "phone": "934549423",
+    "email": "info@clinicadentium.com",
+    "address": "Calle Mallorca 100,",
+    "jsonLdFound": false
+  },
+  "performance": {
+    "lazyLoading": 8,
+    "webpConversion": 0,
+    "fontOptimization": "bunny-fonts",
+    "trackingRemoved": true
+  },
+  "seo": {
+    "metaTags": {
+      "openGraph": "added_missing",
+      "geoTags": "added"
+    },
+    "schemaOrg": {
+      "localBusiness": "MedicalBusiness",
+      "faqPage": "in_nosotros_page"
+    },
+    "content": {
+      "altTexts": "9 fixed"
+    }
+  }
+}
